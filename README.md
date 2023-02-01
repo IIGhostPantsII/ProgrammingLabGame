@@ -1,0 +1,1 @@
+This game will be a first person shooter boss rush. Main controls will consist of moving with WASD or arrow keys. 'Left Click' to shoot your gun. Move the mouse around to move the camera. if you hold 'Left Shift' you can run around and 'Left Control' will be a little dash. 'Space' is to jump, and 'R' is to reload your gun.
